@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
 
+Neural Network A SimplePerception
 
-Neural Network A Simple
-Perception
  Assignment Questions
+
 
 Theoretical Questions:
 
